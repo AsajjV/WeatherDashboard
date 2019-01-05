@@ -1,0 +1,52 @@
+body {
+  background-color: silver;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #008cba;
+}
+
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #008cba;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  color: #008cba;
+  font-size: 120%;
+}
+
+.nav_bar_button {
+  padding-top: 5px;
+  padding-bottom: 0px;
+  background-color: white;
+}
+
+.container1 {
+  margin-bottom: 2px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.box {
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-left: 50px;
+  background-color: white;
+}
+
+.box1 {
+  background-color: silver
+}
+
+.img:hover { 
+  border: 1px solid #008cba; 
+} 
+
+.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
